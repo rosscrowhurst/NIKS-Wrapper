@@ -86,7 +86,7 @@ before use
 USAGE
 =====
 
-${SCRIPTNAME} <options>
+${SCRIPTNAME} options
 
 Where options include:
 
