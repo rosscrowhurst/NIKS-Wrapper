@@ -3,8 +3,7 @@ NIKS-Wrapper
 
 Wrapper script for NIKS pipeline
 
-Modified version (by Ross Crowhurst ross.crowhurst@plantandfood.co.nz)
-of the original NIKS pipeline kmerpipeline.sh script. The latter is part 
+Modified version of the original NIKS pipeline kmerpipeline.sh script. The latter is part 
 of the original NIKS pipeline code available from:
 
  	http://sourceforge.net/projects/niks/
